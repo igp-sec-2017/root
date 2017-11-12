@@ -1,0 +1,11 @@
+# Onsen UI V2 JS Splitter をベースで作成。
+# [inoha_test]のプロジェクト名で、Monaca開発環境へ保管中。（2017.11.12時点）
+# 別プロジェクトで構築する場合は、Monaca開発環境で
+  同フォルダ上の「dir」をアップロードする。
+
+
+# 参考URL
+ http://www.ilovex.co.jp/blog/system/distributionsystem/web-sql-database-2.html
+ https://docs.monaca.io/ja/sampleapp/tips/database/
+
+
