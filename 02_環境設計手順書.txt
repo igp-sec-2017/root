@@ -1,0 +1,44 @@
+■第１項　アカウント情報（事前準備）
+<Yahoo!>各サービスを利用する際のメールアドレス取得
+　ID：igp_sec_2017@yahoo.co.jp
+　PW：5931System.
+
+<GitHuB>
+　ID：igp-sec-2017
+　PW：5931System.
+
+<Monaca>
+　ID：igp_sec_2017@yahoo.co.jp
+　PW：5931System.
+
+<Amazon AWS>
+　ID：
+　PW：
+
+
+■第２項　環境構築手順
+　02-01) Git（mysysgit） 導入
+　　『Git-2.14.3-64-bit.exe』をDownloadしPCに導入。　※Win7 64bit用　2017/10/28 時点最新
+　　# 取得サイト：http://msysgit.github.io/
+　　# 導入画面キャプチャ:20171028-01～20171028-13
+
+　02-02) Gitクライアント（TortoiseGit）の導入
+　　『TortoiseGit-2.5.0.0-64bit.msi』をDownloadしPCに導入。　※Win7 64bit用　2017/10/28 時点最新
+　　# 取得サイト：https://tortoisegit.org/
+　　# 導入画面キャプチャ:20171028-14～20171028-26
+
+　02-03) Gitクライアント日本語化パッチ（TortoiseGit_Language_ja）の導入
+　　『TortoiseGit-LanguagePack-2.5.0.0-64bit-ja.msi』をDownloadしPCに導入。　※Win7 64bit用　2017/10/28 時点最新
+　　# 取得サイト：https://tortoisegit.org/
+　　# 導入画面キャプチャ:20171028-27～20171028-30
+
+　02-05) GitHub上でリモートリポジトリ作成
+　　# 導入画面キャプチャ:20171028-31～20171028-35
+　　# Publicリポジトリ。Privateは有料。
+
+　02-04) Git用ローカルリポジトリ作成
+　　# 導入画面キャプチャ:201710xx
+　　
+
+
+　02-xx) Monaca
