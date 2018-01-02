@@ -44,6 +44,11 @@
 　　# フォルダ右クリック [TortiseGit] -> [設定]
 　　# 導入画面キャプチャ:20171111-03
 
+　02-11）さくらレンタルサーバDB構築
+　　# 導入画面キャプチャ:20180102-01～20180102-02
+　　# URL：https://secure.sakura.ad.jp/rscontrol/rs/db
+　　# DB名：igp-sec-2017_db
+　　# pass：5931System
 
 
 　02-xx) Monaca
