@@ -51,8 +51,10 @@
 　　# pass：5931System
 　
 　02-12）DB接続方法
-　　# PHP
-　　# さくらサーバへテラタームで接続後、以下のコマンドで接続
+　　『phpMyAdminで接続』
+　　# https://secure.sakura.ad.jp/rs/db/mysql3/?server=mysql449.db.sakura.ne.jp
+　　『テラタームよりCUI接続』
+　　# さくらサーバへ接続後、以下のコマンドを実行
 　　# mysql -h mysql449.db.sakura.ne.jp -u igp-sec-2017 -D igp-sec-2017_db -p
 　　# mysql -h ホスト名 -u ユーザ名 -D DB名 -p（パスワード認証）
 
